@@ -383,8 +383,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:269px;
-  height:45px;
+  width:255px;
+  height:23px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -398,10 +398,10 @@
 }
 #u25 {
   position:absolute;
-  left:74px;
-  top:442px;
-  width:269px;
-  height:45px;
+  left:81px;
+  top:441px;
+  width:255px;
+  height:23px;
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -410,7 +410,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:269px;
+  width:255px;
   word-wrap:break-word;
 }
 #u27_div {
@@ -435,7 +435,7 @@
 #u27 {
   position:absolute;
   left:127px;
-  top:497px;
+  top:486px;
   width:163px;
   height:37px;
   font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
